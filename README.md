@@ -1,4 +1,4 @@
-# new_contact_module
+# studioVity Task
 
 A new Flutter project.
 
